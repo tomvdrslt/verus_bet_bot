@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2640724f-3643-4876-a86c-eef2ca41edda" name="Default Changelist" comment="Added request package">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project_verus_proto.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/current_odds_analysis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/historical_odds_analysis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json_export_of_historical_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample-v3.py" beforeDir="false" afterPath="$PROJECT_DIR$/sample-v3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample-v4.py" beforeDir="false" afterPath="$PROJECT_DIR$/sample-v4.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2IyB3Wd2i2b4uG21uPNP09GF25k" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
+  </component>
+  <component name="RunManager" selected="Python.current_odds_analysis">
+    <configuration name="current_odds_analysis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="project_verus_proto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\tomvd\Documents\Github Projects\project_verus_proto\current_odds_analysis.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="historical_odds_analysis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="project_verus_proto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/historical_odds_analysis.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="json_export_of_historical_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="project_verus_proto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/json_export_of_historical_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="odds_calc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="project_verus_proto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/odds_calc.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sample-v4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="project_verus_proto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sample-v4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.current_odds_analysis" />
+        <item itemvalue="Python.historical_odds_analysis" />
+        <item itemvalue="Python.json_export_of_historical_data" />
+        <item itemvalue="Python.sample-v4" />
+        <item itemvalue="Python.odds_calc" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2640724f-3643-4876-a86c-eef2ca41edda" name="Default Changelist" comment="" />
+      <created>1671143743533</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671143743533</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Added request package">
+      <created>1671144043369</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671144043369</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added request package" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added request package" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1049" y="531" key="#com.intellij.tools.ToolEditorDialog" timestamp="1671163538496">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1049" y="531" key="#com.intellij.tools.ToolEditorDialog/0.0.2560.1400/-2292.2149.1920.1040/-2560.1069.2560.1040@0.0.2560.1400" timestamp="1671163538496" />
+    <state width="2539" height="346" key="GridCell.Tab.0.bottom" timestamp="1671510093899">
+      <screen x="-2560" y="1069" width="2560" height="1040" />
+    </state>
+    <state width="2539" height="346" key="GridCell.Tab.0.bottom/-2292.2149.1920.1020/-2560.1069.2560.1040/0.0.2560.1400@-2560.1069.2560.1040" timestamp="1671510093899" />
+    <state width="2539" height="399" key="GridCell.Tab.0.bottom/-2292.2149.1920.1020/-2560.1069.2560.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1671407091030" />
+    <state width="2539" height="492" key="GridCell.Tab.0.bottom/0.0.2560.1400/-2292.2149.1920.1040/-2560.1069.2560.1040@0.0.2560.1400" timestamp="1671164752652" />
+    <state width="2539" height="346" key="GridCell.Tab.0.center" timestamp="1671510093899">
+      <screen x="-2560" y="1069" width="2560" height="1040" />
+    </state>
+    <state width="2539" height="346" key="GridCell.Tab.0.center/-2292.2149.1920.1020/-2560.1069.2560.1040/0.0.2560.1400@-2560.1069.2560.1040" timestamp="1671510093899" />
+    <state width="2539" height="399" key="GridCell.Tab.0.center/-2292.2149.1920.1020/-2560.1069.2560.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1671407091030" />
+    <state width="2539" height="492" key="GridCell.Tab.0.center/0.0.2560.1400/-2292.2149.1920.1040/-2560.1069.2560.1040@0.0.2560.1400" timestamp="1671164752652" />
+    <state width="2539" height="346" key="GridCell.Tab.0.left" timestamp="1671510093899">
+      <screen x="-2560" y="1069" width="2560" height="1040" />
+    </state>
+    <state width="2539" height="346" key="GridCell.Tab.0.left/-2292.2149.1920.1020/-2560.1069.2560.1040/0.0.2560.1400@-2560.1069.2560.1040" timestamp="1671510093899" />
+    <state width="2539" height="399" key="GridCell.Tab.0.left/-2292.2149.1920.1020/-2560.1069.2560.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1671407091030" />
+    <state width="2539" height="492" key="GridCell.Tab.0.left/0.0.2560.1400/-2292.2149.1920.1040/-2560.1069.2560.1040@0.0.2560.1400" timestamp="1671164752652" />
+    <state width="2539" height="346" key="GridCell.Tab.0.right" timestamp="1671510093899">
+      <screen x="-2560" y="1069" width="2560" height="1040" />
+    </state>
+    <state width="2539" height="346" key="GridCell.Tab.0.right/-2292.2149.1920.1020/-2560.1069.2560.1040/0.0.2560.1400@-2560.1069.2560.1040" timestamp="1671510093899" />
+    <state width="2539" height="399" key="GridCell.Tab.0.right/-2292.2149.1920.1020/-2560.1069.2560.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1671407091030" />
+    <state width="2539" height="492" key="GridCell.Tab.0.right/0.0.2560.1400/-2292.2149.1920.1040/-2560.1069.2560.1040@0.0.2560.1400" timestamp="1671164752652" />
+    <state width="2539" height="346" key="GridCell.Tab.1.bottom" timestamp="1671510093899">
+      <screen x="-2560" y="1069" width="2560" height="1040" />
+    </state>
+    <state width="2539" height="346" key="GridCell.Tab.1.bottom/-2292.2149.1920.1020/-2560.1069.2560.1040/0.0.2560.1400@-2560.1069.2560.1040" timestamp="1671510093899" />
+    <state width="2539" height="491" key="GridCell.Tab.1.bottom/-2292.2149.1920.1020/-2560.1069.2560.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1671341527857" />
+    <state width="2539" height="492" key="GridCell.Tab.1.bottom/0.0.2560.1400/-2292.2149.1920.1040/-2560.1069.2560.1040@0.0.2560.1400" timestamp="1671164752652" />
+    <state width="2539" height="346" key="GridCell.Tab.1.center" timestamp="1671510093899">
+      <screen x="-2560" y="1069" width="2560" height="1040" />
+    </state>
+    <state width="2539" height="346" key="GridCell.Tab.1.center/-2292.2149.1920.1020/-2560.1069.2560.1040/0.0.2560.1400@-2560.1069.2560.1040" timestamp="1671510093899" />
+    <state width="2539" height="491" key="GridCell.Tab.1.center/-2292.2149.1920.1020/-2560.1069.2560.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1671341527857" />
+    <state width="2539" height="492" key="GridCell.Tab.1.center/0.0.2560.1400/-2292.2149.1920.1040/-2560.1069.2560.1040@0.0.2560.1400" timestamp="1671164752652" />
+    <state width="2539" height="346" key="GridCell.Tab.1.left" timestamp="1671510093899">
+      <screen x="-2560" y="1069" width="2560" height="1040" />
+    </state>
+    <state width="2539" height="346" key="GridCell.Tab.1.left/-2292.2149.1920.1020/-2560.1069.2560.1040/0.0.2560.1400@-2560.1069.2560.1040" timestamp="1671510093899" />
+    <state width="2539" height="491" key="GridCell.Tab.1.left/-2292.2149.1920.1020/-2560.1069.2560.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1671341527857" />
+    <state width="2539" height="492" key="GridCell.Tab.1.left/0.0.2560.1400/-2292.2149.1920.1040/-2560.1069.2560.1040@0.0.2560.1400" timestamp="1671164752652" />
+    <state width="2539" height="346" key="GridCell.Tab.1.right" timestamp="1671510093899">
+      <screen x="-2560" y="1069" width="2560" height="1040" />
+    </state>
+    <state width="2539" height="346" key="GridCell.Tab.1.right/-2292.2149.1920.1020/-2560.1069.2560.1040/0.0.2560.1400@-2560.1069.2560.1040" timestamp="1671510093899" />
+    <state width="2539" height="491" key="GridCell.Tab.1.right/-2292.2149.1920.1020/-2560.1069.2560.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1671341527857" />
+    <state width="2539" height="492" key="GridCell.Tab.1.right/0.0.2560.1400/-2292.2149.1920.1040/-2560.1069.2560.1040@0.0.2560.1400" timestamp="1671164752652" />
+    <state x="782" y="346" key="SettingsEditor" timestamp="1671163549853">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="782" y="346" key="SettingsEditor/0.0.2560.1400/-2292.2149.1920.1040/-2560.1069.2560.1040@0.0.2560.1400" timestamp="1671163549853" />
+    <state x="873" y="434" key="Vcs.Push.Dialog.v2" timestamp="1671144052899">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="873" y="434" key="Vcs.Push.Dialog.v2/0.0.2560.1400/-2292.2149.1920.1040/-2560.1069.2560.1040@0.0.2560.1400" timestamp="1671144052899" />
+    <state x="1098" y="615" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1671144275715">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1098" y="615" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400/-2292.2149.1920.1040/-2560.1069.2560.1040@0.0.2560.1400" timestamp="1671144275715" />
+  </component>
+</project>
