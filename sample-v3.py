@@ -1,24 +1,23 @@
 import json
 import requests
 import argparse
+import shin
 
 parser = argparse.ArgumentParser(description='Sample V4')
 parser.add_argument('--api-key', type=str, default='')
 args = parser.parse_args()
 
-
 # An api key is emailed to you when you sign up to a plan
 # Get a free API key at https://api.the-odds-api.com/
-API_KEY = args.api_key or 'YOUR_API_KEY'
+API_KEY = '33567d43ad51625bd87ffa62dd57c6fe'
 
-SPORT = 'upcoming' # use the sport_key from the /sports endpoint below, or use 'upcoming' to see the next 8 games across all sports
+SPORT = 'basketball_nba'  # use the sport_key from the /sports endpoint below, or use 'upcoming' to see the next 8 games across all sports
 
-REGION = 'uk' # uk | us | eu | au
+REGION = 'us'  # uk | us | eu | au
 
-MARKET = 'h2h' # h2h | spreads | totals
+MARKET = 'spreads'  # h2h | spreads | totals
 
-
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 #
 # First get a list of in-season sports
 #   the sport 'key' from the response can be used to get odds in the next request
@@ -37,15 +36,13 @@ if not sports_json['success']:
 else:
     print('List of in season sports:', sports_json['data'])
 
-
-
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 #
 # Now get a list of live & upcoming games for the sport you want, along with odds for different bookmakers
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
-odds_response = requests.get('https://api.the-odds-api.com/v3/odds', params={
+odds_response = requests.get('https://api.the-odds-api.com/v3/sports', params={
     'api_key': API_KEY,
     'sport': SPORT,
     'region': REGION,
@@ -59,6 +56,13 @@ if not odds_json['success']:
 
 else:
     print('Number of events:', len(odds_json['data']))
+    print(odds_json['data'])
+    for records in odds_json['data']:
+        print(records)
+
+
+
+
     print(odds_json['data'])
 
     # Check your usage
